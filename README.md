@@ -1,6 +1,6 @@
 # Hi there, I'm Suriya Narayanan K G 👋
 
-I am a full-stack developer and student currently pursuing a B.Tech in Computer Science and Engineering at Vellore Institute of Technology (CGPA: 9.58/10), alongside a B.S. in Data Science at the Indian Institute of Technology Madras. I am passionate about building practical software solutions, ranging from web platforms and full mobile applications to machine learning and cybersecurity frameworks.
+I am a full-stack web and mobile app developer, currently pursuing a B.Tech in Computer Science and Engineering at Vellore Institute of Technology (CGPA: 9.58/10), alongside a B.S. in Data Science at the Indian Institute of Technology Madras. I am passionate about building practical software solutions, ranging from full cross-platform mobile applications and web platforms to machine learning and cybersecurity frameworks.
 
 ---
 
@@ -24,7 +24,8 @@ I am a full-stack developer and student currently pursuing a B.Tech in Computer 
 ### 🛠️ Tech Stack & Tools
 
 *   **Languages:** Python, C, C++, Java, JavaScript, TypeScript
-*   **Frontend & App Dev:** React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, along with full cross-platform app development using React Native and Expo Go.
+*   **Mobile App Dev:** React Native, Expo Go (Cross-platform application development)
+*   **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS
 *   **Backend & Databases:** Node.js, Express.js, REST APIs, SQL, MongoDB, PostgreSQL, NoSQL
 *   **Data Science & ML:** NumPy, Pandas, Scikit-learn
 *   **CS Fundamentals & Tools:** Data Structures, Algorithms, OOP, Operating Systems, DBMS, Git, GitHub, Linux
@@ -44,4 +45,4 @@ I am a full-stack developer and student currently pursuing a B.Tech in Computer 
 
 *   **Email:** kobulasuriya@gmail.com
 *   **LinkedIn:** https://www.linkedin.com/in/suriya-narayanan-087835311/
-*   **Portfolio:** [Your Portfolio Website URL Here]
+*   **Portfolio:** 
